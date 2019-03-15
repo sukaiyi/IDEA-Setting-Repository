@@ -1,0 +1,11 @@
+<keymap version="1" name="Eclipse copy" parent="Eclipse">
+  <action id="ActivateFavoritesToolWindow" />
+  <action id="ActivateProjectToolWindow" />
+  <action id="ShowBookmarks">
+    <keyboard-shortcut first-keystroke="alt 2" />
+  </action>
+  <action id="ToggleBookmark">
+    <keyboard-shortcut first-keystroke="alt 1" />
+  </action>
+  <action id="Vcs.QuickListPopupAction" />
+</keymap>
