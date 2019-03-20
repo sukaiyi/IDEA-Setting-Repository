@@ -1,0 +1,9 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Java">
+        <added pattern="com.ht.generator.utils.PsiClassUtils.getAnnotationValue(psiObject,annotationName,attrName,def)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>
