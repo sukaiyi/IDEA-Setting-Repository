@@ -1,0 +1,5 @@
+<application>
+  <component name="HTCodeGenerator">
+    <option name="voJsonFormat" value="true" />
+  </component>
+</application>
